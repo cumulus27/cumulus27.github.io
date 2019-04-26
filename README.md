@@ -1,2 +1,3 @@
 # cumulus27.github.io
-a wedsite for studing
+
+A wedsite for studing.

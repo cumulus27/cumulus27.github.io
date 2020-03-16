@@ -1,0 +1,37 @@
+#bottom_layer {
+    width: 100%;
+    min-width: 1250px;
+    position: fixed;
+    z-index: 302;
+    bottom: 0;
+    left: 0;
+    height: 40px;
+    overflow: hidden;
+    color: #999;
+    zoom: 1;
+    margin: 0;
+    background-color: #fafafa;
+    text-align: left;
+    line-height: 40px;
+}
+
+#bottom_layer .s-bottom-layer-right {
+    float: right;
+    color: #bbb;
+}
+
+#bottom_layer a {
+    font-size: 14px;
+    text-decoration: none;
+    color: #999;
+}
+
+#bottom_layer .s-bottom-layer-right {
+    margin-right: 30px;
+}
+
+#bottom_layer .lh {
+    font-size: 14px;
+    display: inline;
+    margin-right: 20px;
+}
